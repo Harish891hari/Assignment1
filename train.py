@@ -57,4 +57,4 @@ def train_model(model_name="cnn", epochs=5):
 
 if __name__ == "__main__":
     # Choose between "cnn" or "transfer"
-    train_model(model_name="transfer", epochs=5)
+    train_model(model_name="transfer", epochs=5)                         
